@@ -1,2 +1,0 @@
-python ImageClassification.py
-pause
